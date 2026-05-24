@@ -57,9 +57,9 @@ forest-fire-prediction/
 │   └── fire_prediction.js
 │
 ├── outputs/
-│   ├── fire_map.png
-│   ├── probability_map.png
-│   └── burned_area_visualization.png
+│   ├── ConfusionMatrix.png
+│   ├── FireMap.png
+│   └── StudyArea.png
 ├── README.md
 ```
 
