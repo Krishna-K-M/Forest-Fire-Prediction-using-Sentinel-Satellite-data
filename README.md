@@ -60,6 +60,7 @@ forest-fire-prediction/
 │   ├── ConfusionMatrix.png
 │   ├── FireMap.png
 │   └── StudyArea.png
+│
 ├── README.md
 ```
 
